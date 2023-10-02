@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer specializing in JavaScript technologies. I love to build scalable and maintainable applications, and I have experience working with React, React-Redux, Express, Node, and PostgreSQL.</br>
+I'm a passionate developer specializing in JavaScript technologies. I love to build scalable and maintainable applications, and I have experience working with React, React-Redux, Express, Node, and PostgreSQL.</br><br/>
 Artist-turned-coder. I liked creating beauty before; I like creating beauty now.
 Former Lighting Designer, Network Designer, and Console Programmer. Musician, Cold Brew Drinker, Sports Fanatic, Certified Cicerone®
 

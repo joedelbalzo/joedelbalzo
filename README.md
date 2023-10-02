@@ -4,7 +4,9 @@
   <hr>
 </p>
 
-<iframe src="https://giphy.com/embed/uhkgRdrMSnqDBofJru" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div align="center">
+  <img src="https://media.giphy.com/media/uhkgRdrMSnqDBofJru/giphy.gif" width="600" height="300"/>
+</div>
 
 ## 🚀 About Me
 
